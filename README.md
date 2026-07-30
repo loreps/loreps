@@ -1,14 +1,13 @@
 ## Hello, my name is lorenzo
 
-#### Im currently working on: Void Linux on ps4
-
+#### currently working on: Void Linux on ps4
+#### learning rust
 #### linux enthustiast
-#### i have nothing to say lol
 
 ## todo list
-- [ ] make void linux drivers for ps4
-- [ ] bedrock linux on ps4
-- [ ] buy a real pc
+- [x] make void linux drivers for ps4
+- [ ] bedrock linux on ps4 (w.i.p)
+- [ ] buy a real pc 
 
 ![gif](https://raw.githubusercontent.com/Lorytech-html/Lorytech-html/refs/heads/main/IMG_5177.gif)   
 
